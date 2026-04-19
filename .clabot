@@ -1,0 +1,6 @@
+{
+  "contributors": [],
+  "label": "cla-signed",
+  "message": "This organization uses a [Contributor License Agreement](https://github.com/vex-protocol/spire-js/blob/main/CLA.md). The following GitHub account(s) are not yet listed as covered: {{usersWithoutCLA}}. Sign the CLA at **https://vex.wtf/cla** (open from your pull request). Maintainers add approved usernames to the `contributors` array in **`vex-protocol/clabot-config`** (this file); then comment **@cla-bot check** on this PR.",
+  "recheckComment": "Re-checking CLA status for this pull request…"
+}
